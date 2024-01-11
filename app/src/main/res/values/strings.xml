@@ -1,0 +1,89 @@
+<resources>
+
+    <string name="app_name">Hire&amp;Connect</string>
+    <string name="title_activity_trader_profile_creation">TraderProfileCreationActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string-array name="range_slider">
+        <item>1000</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="electrician_name">
+        <item>Rahul Electrical Services</item>
+        <item>Seema Electricians</item>
+        <item>Amit Electric Solutions</item>
+        <item>Sneha Power Electricians</item>
+        <item>Anjali Spark Electrical Services</item>
+        <item>Vikram Wired Electrical</item>
+        <item>Nisha Lightning Electric Solutions</item>
+    </string-array>
+
+    <string-array name="plumber_name">
+        <item>Asha Plumbing Solutions</item>
+        <item>Rajat Plumbing Services</item>
+        <item>Priya Plumbing Experts</item>
+        <item>Mukesh Plumbing Professionals</item>
+        <item>Pooja Plumbing Specialists</item>
+        <item>Ravi Plumbing Repairs</item>
+        <item>Meera Plumbing Services</item>
+    </string-array>
+
+    <string-array name="beautician_name">
+        <item>Kunal Beauty Studio</item>
+        <item>Shreya Beauty Parlour</item>
+        <item>Vishal Beauty Salon</item>
+        <item>Jyoti Glamour Studio</item>
+        <item>Manish Beauty Lounge</item>
+        <item>Swati Beauty Spa</item>
+        <item>Rajesh Beauty Haven</item>
+    </string-array>
+
+
+    <string-array name="laundry_name">
+        <item>Neeraj Laundry Services</item>
+        <item>Sarika Laundromat</item>
+        <item>Ajay Laundry Solutions</item>
+        <item>Alka Laundry Cleaners</item>
+        <item>Rohan Laundry Experts</item>
+        <item>Divya Laundry Hub</item>
+        <item>Karthik Laundry Express</item>
+    </string-array>
+
+    <string-array name="phone_numbers">
+        <item>1234567890</item>
+        <item>9876543210</item>
+        <item>5551234567</item>
+        <item>8885554321</item>
+        <item>7779998888</item>
+        <item>5553331111</item>
+        <item>1237894561</item>
+    </string-array>
+    <string-array name="numbers_lb">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>2750</item>
+        <item>3000</item>
+    </string-array>
+    <string-array name="numbers_ub">
+        <item>1000</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>3500</item>
+        <item>4000</item>
+        <item>4500</item>
+    </string-array>
+
+</resources>
